@@ -97,8 +97,7 @@ color: var(--main-color);
 }
 .home-img{
     width: 35vw;
-    margin-left: 400px;
-    margin-top: 80px;
+
 
 }
 .home-content p{
@@ -260,7 +259,7 @@ html {
 font-size: 50%;
 }
 }
- @media (max-width: 900px) {
+ @media (max-width: 991px) {
   .header {
   padding: 2rem 3%;
   }
@@ -317,7 +316,6 @@ font-size: 50%;
 
   .home-img img {
     width: 70vw;
-    margin-top: 4rem;
   }
 
   .about {
