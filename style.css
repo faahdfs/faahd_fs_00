@@ -251,12 +251,16 @@ flex-wrap: wrap;
   cursor: pointer;
 }
 
-@media ( max-width:1200px) {
+
+
+
+
+@media ( max-width:1000px) {
 html {
 font-size: 50%;
 }
 }
- @media (max-width: 991px) {
+ @media (max-width: 900px) {
   .header {
   padding: 2rem 3%;
   }
